@@ -1,0 +1,23 @@
+Hotel Management System - Monthly Report
+Month: April 2025
+Generated on: 2025-04-03
+
+SUMMARY
+Metric,Value
+Total Revenue,$1850.00
+Occupancy Rate,15.0%
+Unique Guests,4
+Total Nights,16
+
+BOOKINGS
+Guest Name,Room No,Room Type,Check-In,Check-Out,Nights,Revenue
+"SP",401,"Deluxe",2025-04-03,2025-04-03,7,$1400.00
+"shubham suryansh viratyt",101,"Single",2025-04-03,2025-04-03,2,$100.00
+"jkdcj",101,"Single",2025-04-02,2025-04-02,2,$100.00
+"sdffk",102,"Single",2025-04-02,2025-04-02,3,$150.00
+"jkdcj",101,"Single",2025-04-02,2025-04-02,2,$100.00
+
+ROOM STATISTICS
+Room Type,Bookings,Nights,Revenue,Avg Revenue,Occupancy Rate
+"Deluxe",1,7,$1400.00,$1400.00,0.7%
+"Single",4,9,$450.00,$112.50,2.7%
